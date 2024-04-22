@@ -1,5 +1,5 @@
 @echo off
-echo Instalando dependencias...
-npm install venom-bot axios worker_threads
-echo Instalacao concluida com sucesso.
+echo Instalando as dependencias...
+npm install venom-bot
+echo Todas as dependencias foram instaladas com sucesso.
 pause

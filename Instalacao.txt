@@ -8,7 +8,8 @@ https://t.me/seemniick
 1º Você baixa e instala o node.js
 Link: https://nodejs.org/en/download/current
 
-2º Após instalar você abre a pasta da ferramenta e clica em instalar.bat
+2º Após instalar você abre a pasta da ferramenta e clica em instalar.bat e espera as dependencias serem instaladas.
+
 
 3º Clique em iniciar.bat
 
@@ -17,6 +18,8 @@ Link: https://nodejs.org/en/download/current
 
 Para a verificação dos numeros do WhatsApp, após escolher a operação 2 vai gerar um Qr-Code, esse QR-CODE é para você escanear do seu WhatsApp
 Não se preocupe, isso serve para a verificação! 
+
+Os números para verificar você coloca no .txt (NUMEROS) nesse formato: 5507929065453
 
 Obs:
 Para fazer a verificação de links você cria um arquivo .txt e coloca os links nesse formato: > https://chat.whatsapp.com/FDSFSDF34T34T34FDS

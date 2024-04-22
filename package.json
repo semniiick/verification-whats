@@ -1,0 +1,15 @@
+{
+  "name": "verification_whats",
+  "version": "1.5.0",
+  "description": "Uma simples ferramenta que vai facilitar sua vida.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "https://t.me/seemniick",
+  "license": "ISC",
+  "dependencies": {
+    "venom-bot": "^5.1.0"
+  }
+}
